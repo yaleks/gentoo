@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<herd>proxy-maintainers</herd>
+<maintainer>
+	<email>yaleks@gentoo.ru</email>
+	<name>Aleksandr Yakimov</name>
+	<description>Maintainer. Assign bugs to him</description>
+</maintainer>
+	<longdescription lang="en">
+		Post-processing backend for CUPS
+		Boomaga provides a virtual printer for CUPS. This can be used for 
+		print preview or for print booklets.
+	</longdescription>
+</pkgmetadata>
